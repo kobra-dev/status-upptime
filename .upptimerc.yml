@@ -12,4 +12,4 @@ sites:
 
 status-website:
    baseUrl: /status-upptime
-
+   name: status
