@@ -7,7 +7,7 @@ sites:
     url: https://kobra.dev/
   - name: studio
     url: https://studio.kobra.dev/
-  - name: Docs
+  - name: docs
     url: https://docs.kobra.dev/
 
 status-website:
