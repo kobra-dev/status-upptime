@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/kobra.dev",
     "slug": "website",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 137,
-    "timeDay": 138,
-    "timeWeek": 124,
-    "timeMonth": 127,
-    "timeYear": 137,
-    "dailyMinutesDown": {
-      "2021-08-31": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 144,
+    "timeDay": 253,
+    "timeWeek": 161,
+    "timeMonth": 140,
+    "timeYear": 144,
+    "dailyMinutesDown": {}
   },
   {
     "name": "studio",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 87,
-    "timeWeek": 212,
-    "timeMonth": 174,
-    "timeYear": 175,
+    "time": 173,
+    "timeDay": 67,
+    "timeWeek": 158,
+    "timeMonth": 173,
+    "timeYear": 173,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 91,
-    "timeWeek": 120,
+    "time": 140,
+    "timeDay": 57,
+    "timeWeek": 110,
     "timeMonth": 141,
-    "timeYear": 142,
+    "timeYear": 140,
     "dailyMinutesDown": {}
   }
 ]
