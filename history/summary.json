@@ -4,18 +4,20 @@
     "url": "https://kobra.dev/",
     "icon": "https://favicons.githubusercontent.com/kobra.dev",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 213,
-    "timeWeek": 147,
-    "timeMonth": 153,
-    "timeYear": 144,
-    "dailyMinutesDown": {}
+    "time": 309,
+    "timeDay": 7617,
+    "timeWeek": 2006,
+    "timeMonth": 578,
+    "timeYear": 309,
+    "dailyMinutesDown": {
+      "2021-09-29": 1
+    }
   },
   {
     "name": "studio",
