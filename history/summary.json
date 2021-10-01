@@ -22,19 +22,19 @@
     "url": "https://studio.kobra.dev/",
     "icon": "https://favicons.githubusercontent.com/studio.kobra.dev",
     "slug": "studio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 114,
-    "timeWeek": 116,
-    "timeMonth": 159,
-    "timeYear": 168,
+    "time": 170,
+    "timeDay": 190,
+    "timeWeek": 141,
+    "timeMonth": 164,
+    "timeYear": 170,
     "dailyMinutesDown": {
-      "2021-10-01": 2
+      "2021-10-01": 4
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://docs.kobra.dev/",
     "icon": "https://favicons.githubusercontent.com/docs.kobra.dev",
     "slug": "docs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 82,
-    "timeWeek": 114,
-    "timeMonth": 145,
-    "timeYear": 142,
+    "time": 143,
+    "timeDay": 130,
+    "timeWeek": 126,
+    "timeMonth": 148,
+    "timeYear": 143,
     "dailyMinutesDown": {
-      "2021-10-01": 0
+      "2021-10-01": 2
     }
   }
 ]
