@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 98,
-    "timeWeek": 1788,
-    "timeMonth": 605,
-    "timeYear": 302,
+    "time": 304,
+    "timeDay": 410,
+    "timeWeek": 1800,
+    "timeMonth": 613,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "studio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 190,
-    "timeWeek": 141,
-    "timeMonth": 164,
-    "timeYear": 170,
-    "dailyMinutesDown": {
-      "2021-10-01": 4
-    }
+    "time": 174,
+    "timeDay": 316,
+    "timeWeek": 187,
+    "timeMonth": 174,
+    "timeYear": 174,
+    "dailyMinutesDown": {}
   },
   {
     "name": "docs",
@@ -44,17 +42,15 @@
     "slug": "docs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 130,
-    "timeWeek": 126,
-    "timeMonth": 148,
-    "timeYear": 143,
-    "dailyMinutesDown": {
-      "2021-10-01": 2
-    }
+    "time": 148,
+    "timeDay": 289,
+    "timeWeek": 172,
+    "timeMonth": 157,
+    "timeYear": 148,
+    "dailyMinutesDown": {}
   }
 ]
