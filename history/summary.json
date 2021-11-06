@@ -40,7 +40,7 @@
     "url": "https://docs.kobra.dev/",
     "icon": "https://favicons.githubusercontent.com/docs.kobra.dev",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 156,
     "timeMonth": 182,
     "timeYear": 156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-06": 0
+    }
   }
 ]
