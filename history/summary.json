@@ -4,10 +4,10 @@
     "url": "https://kobra.dev/",
     "icon": "https://favicons.githubusercontent.com/kobra.dev",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 245,
@@ -15,7 +15,9 @@
     "timeWeek": 137,
     "timeMonth": 154,
     "timeYear": 245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 1
+    }
   },
   {
     "name": "studio",
@@ -40,9 +42,9 @@
     "url": "https://docs.kobra.dev/",
     "icon": "https://favicons.githubusercontent.com/docs.kobra.dev",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 185,
     "timeMonth": 143,
     "timeYear": 154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 0
+    }
   }
 ]
