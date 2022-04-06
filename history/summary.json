@@ -4,10 +4,10 @@
     "url": "https://kobra.dev/",
     "icon": "https://favicons.githubusercontent.com/kobra.dev",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
@@ -15,16 +15,18 @@
     "timeWeek": 109,
     "timeMonth": 137,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-06": 1
+    }
   },
   {
     "name": "studio",
     "url": "https://studio.kobra.dev/",
     "icon": "https://favicons.githubusercontent.com/studio.kobra.dev",
     "slug": "studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 163,
     "timeMonth": 171,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-06": 0
+    }
   },
   {
     "name": "docs",
     "url": "https://docs.kobra.dev/",
     "icon": "https://favicons.githubusercontent.com/docs.kobra.dev",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 61,
     "timeMonth": 136,
     "timeYear": 145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-06": 0
+    }
   }
 ]
