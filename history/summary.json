@@ -22,18 +22,20 @@
     "url": "https://studio.kobra.dev/",
     "icon": "https://favicons.githubusercontent.com/studio.kobra.dev",
     "slug": "studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 195,
-    "timeWeek": 372,
-    "timeMonth": 206,
+    "timeDay": 134,
+    "timeWeek": 335,
+    "timeMonth": 202,
     "timeYear": 179,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "docs",
